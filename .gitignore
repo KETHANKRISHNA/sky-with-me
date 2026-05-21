@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Source video (too large for Git)
+*.mp4
+
+# Original zip archive
+*.zip
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
